@@ -1,0 +1,10 @@
+Este proyecto ha demostado la capacdad de gestionar y analizar datos de una sucursal "ficticia" de Walmart medante el uso
+de SQL y herramientas de visualización de Python. A través de la creacion de una base de datos estructurada, se han realizado
+diversas consultas que permiten obtener información sobre las ventas, el inventario y el rendimiento de los empleados. Las gráficas 
+proporcionan una representación visual clara de los datos, facilitando la identificación de tendencias y patrones en las ventas por mes,
+la distribución de productos por categorías y el desempeño de los empleados.
+
+Este analisis no solo resalta la importancia de una gestión eficiente de los datos en el entorno minorista, sino tambien subraya como las 
+herramientas de análisis y visualización pueden ser utilizadas para tomar decisiones informadas que impulsen el crecimiento y la eficiencia 
+operativa de la sucursal. En resumen, este proyecto no solo es un ejercicio tecnico sino también una demostración de cómo los datos pueden 
+información útil para la toma de decisiones estratégicas en el negocio.
